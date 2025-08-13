@@ -11,10 +11,13 @@ The goal of this project is to provide remote monitoring for my raised garden be
 
 ## Build List
 
+Core
 - (1) ESP32 of some type. I chose a Heltec ESP32 with LCD and Lora.
 - (8) DS18B20 Temperature Probes
 - (1) 4700K Ohm resistor
 - Wire (10' - 100' of 18ga wire)
+
+Optional
 - SeenGreat Solar Energy Manager
 - 18650 battery
 - 8W 6V solar panel
