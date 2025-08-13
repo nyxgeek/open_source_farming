@@ -4,6 +4,8 @@
 ## About
 The goal of this project is to provide remote monitoring for my raised garden beds and watering tank. The garden beds will have a near-surface temperature probe, a mid-level probe, and a floor probe at ground level, inside the bed. Additional probes will be used to measure air temperature and the water tank temperature.
 
+![circuit diagram of garden bed temperature sensors](001_garden_bed_temp_sensors.png)
+
 ## Budget & Cost
 
 
