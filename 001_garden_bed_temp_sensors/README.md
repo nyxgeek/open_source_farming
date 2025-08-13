@@ -24,3 +24,9 @@ The goal of this project is to provide remote monitoring for my raised garden be
 ## Instructions
 
 The basic idea is to run a 3.3v rail and a ground rail, and to strip the wire at junctions where we will tie off a line to feed each set of probes.
+
+
+
+## References and Sources
+
+- https://randomnerdtutorials.com/esp32-ds18b20-temperature-arduino-ide/
