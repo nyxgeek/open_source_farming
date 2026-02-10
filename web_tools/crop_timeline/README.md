@@ -8,4 +8,6 @@ You can drag and drop their order, and drag and drop to new start dates.
 
 There is an example hosted here: [tbd]
 
+![a schedule laid out in a linear calendar, showing the timeline of when crops will be growing](crop_timeline_screenshot.png)
+
 
