@@ -1,0 +1,11 @@
+# Crop Timeline
+
+This is a simple JavaScript tool that will let you upload a csv containg a crop name, start and end date, and visualize it.
+
+Instead of a normal calendar view, this is linear `----> ----> ---->`
+
+You can drag and drop their order, and drag and drop to new start dates.
+
+There is an example hosted here: [tbd]
+
+
