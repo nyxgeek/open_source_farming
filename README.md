@@ -19,4 +19,7 @@ I want to share builds of monitoring and robotic solutions to help farmers.
 
 ## other people's projects
 
-AR4-MK4 Robotic Arm - Annin Robotics - Open source - [link](https://anninrobotics.com/downloads/)
+### robotic arms
+- AR4-MK4 Robotic Arm - Annin Robotics - Open source - [link](https://anninrobotics.com/downloads/)
+- SCARA Robotic Arm - [link](https://howtomechatronics.com/projects/scara-robot-how-to-build-your-own-arduino-based-robot/)
+- ARCTOS Robotic Arm - [link](https://arctosrobotics.com/)
